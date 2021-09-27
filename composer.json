@@ -10,6 +10,7 @@
         "symfony/console": "5.3.*",
         "symfony/http-client": "5.3.*"
     },
+    
     "license": "GPL-3.0",
     "authors": [
         {
@@ -26,9 +27,11 @@
     "config": {
         "sort-packages": true
     },
-    "extra": {
-        "branch-alias": {
-            "master": "v1.1"
-        },
+
     "minimum-stability": "stable"
-}
+    
+
+    
+}      
+
+
