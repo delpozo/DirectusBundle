@@ -1,0 +1,29 @@
+{
+    "name": "sba/directus-bundle",
+    "description": "A Directus API Client for Symfony",
+    "type": "symfony-bundle",
+    "require": {
+        "php": ">=8.0",
+        "symfony/symfony": "5.0",
+        "symfony/yaml": "^5.0",
+        "symfony/console": "5.3.*",
+        "symfony/http-client": "5.3.*"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Saifeddine Bahri",
+            "email": "saifeddine.bahri_prestataire@bayard-presse.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Sba\\Bundle\\DirectUsBundle\\": "src/" ,
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
