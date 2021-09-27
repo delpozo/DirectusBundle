@@ -2,7 +2,6 @@
     "name": "sba/directus-bundle",
     "description": "A Directus API Client for Symfony",
     "type": "symfony-bundle",
-    "version": "v1.0.3",
     "require": {
         "php": ">=8.0",
         "symfony/framework-bundle": "^4.3 || ^5.0",
