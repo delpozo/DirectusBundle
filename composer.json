@@ -26,5 +26,9 @@
     "config": {
         "sort-packages": true
     },
+    "extra": {
+        "branch-alias": {
+            "master": "v1.1"
+        },
     "minimum-stability": "stable"
 }
