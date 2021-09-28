@@ -1,6 +1,6 @@
 <?php
 
-namespace Bundle\DirectusBundle\Exception;
+namespace SBA\DirectusBundle\Exception;
 
 use Exception;
 

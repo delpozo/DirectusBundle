@@ -23,7 +23,7 @@
 
     "autoload": {
         "psr-4": {
-            "Sba\\DirectusBundle\\": "src/" 
+            "SBA\\DirectusBundle\\": "src/"
         }
     },
     "config": {

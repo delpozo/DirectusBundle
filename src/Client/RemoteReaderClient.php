@@ -1,6 +1,6 @@
 <?php
 
-namespace Sba\DirectusBundle\Client;
+namespace SBA\DirectusBundle\Client;
 
 use Symfony\Component\HttpFoundation\JsonResponse;
 

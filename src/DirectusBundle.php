@@ -1,6 +1,6 @@
 <?php
 
-namespace Sba\DirectusBundle;
+namespace SBA\DirectusBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
