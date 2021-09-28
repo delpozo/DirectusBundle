@@ -1,6 +1,6 @@
 <?php
 
-namespace Bundle\DirectusBundle\DependencyInjection;
+namespace Sba\DirectusBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

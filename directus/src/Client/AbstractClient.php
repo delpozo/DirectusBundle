@@ -1,6 +1,6 @@
 <?php
 
-namespace Bundle\DirectusBundle\Client;
+namespace Sba\DirectusBundle\Client;
 
 use Sba\DirectusSymfonyBundle\Exception\NotSubstitutedVariableException;
 use Symfony\Component\DependencyInjection\ParameterBag\ParameterBagInterface;

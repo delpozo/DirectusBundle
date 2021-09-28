@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Bundle\DirectusBundle\DependencyInjection;
+namespace Sba\DirectusBundle\DependencyInjection;
 
 
 use http\Exception\InvalidArgumentException;
